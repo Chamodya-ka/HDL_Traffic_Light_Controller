@@ -1,0 +1,29 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/WorkSpace/Sem7/HDL/TrafficLightController/Synchronizer.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Synchronizer
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/WorkSpace/Sem7/HDL/TrafficLightController/Timer.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Timer
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/WorkSpace/Sem7/HDL/TrafficLightController/TrafficControllerMain_test.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TrafficControllerMain_test
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/WorkSpace/Sem7/HDL/TrafficLightController/WalkRegister.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module WalkRegister
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/WorkSpace/Sem7/HDL/TrafficLightController/FSM_test.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FSM_test
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/WorkSpace/Sem7/HDL/TrafficLightController/FSM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FSM
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/WorkSpace/Sem7/HDL/TrafficLightController/TimeParameter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TimeParameter
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/WorkSpace/Sem7/HDL/TrafficLightController/Divider.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Divider
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/WorkSpace/Sem7/HDL/TrafficLightController/TrafficControllerMain.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TrafficControllerMain
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/WorkSpace/Sem7/HDL/TrafficLightController/TimeParameter_test.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TimeParameter_test
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/WorkSpace/Sem7/HDL/TrafficLightController/Timer_test.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Timer_test
+WARNING: [VRFC 10-2096] empty statement in sequential block [D:/WorkSpace/Sem7/HDL/TrafficLightController/Timer_test.v:27]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/WorkSpace/Sem7/HDL/TrafficLightController/WalkRegister_test.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module WalkRegister_test
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/WorkSpace/Sem7/HDL/TrafficLightController/Divider_test.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Divider_test
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/WorkSpace/Sem7/HDL/TrafficLightController/Synchronizer_test.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Synchronizer_test

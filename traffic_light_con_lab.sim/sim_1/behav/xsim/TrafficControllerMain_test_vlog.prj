@@ -1,0 +1,22 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../../TrafficLightController/Synchronizer.v" \
+"../../../../../../TrafficLightController/Timer.v" \
+"../../../../../../TrafficLightController/TrafficControllerMain_test.v" \
+"../../../../../../TrafficLightController/WalkRegister.v" \
+"../../../../../../TrafficLightController/FSM_test.v" \
+"../../../../../../TrafficLightController/FSM.v" \
+"../../../../../../TrafficLightController/TimeParameter.v" \
+"../../../../../../TrafficLightController/Divider.v" \
+"../../../../../../TrafficLightController/TrafficControllerMain.v" \
+"../../../../../../TrafficLightController/TimeParameter_test.v" \
+"../../../../../../TrafficLightController/Timer_test.v" \
+"../../../../../../TrafficLightController/WalkRegister_test.v" \
+"../../../../../../TrafficLightController/Divider_test.v" \
+"../../../../../../TrafficLightController/Synchronizer_test.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

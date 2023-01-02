@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Mon Jan  2 22:41:19 2023
+# Process ID: 20668
+# Current directory: D:/WorkSpace/Sem7/HDL/traffic_light_con/traffic_light_con_lab/traffic_light_con_lab.runs/synth_1
+# Command line: vivado.exe -log TrafficControllerMain.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source TrafficControllerMain.tcl
+# Log file: D:/WorkSpace/Sem7/HDL/traffic_light_con/traffic_light_con_lab/traffic_light_con_lab.runs/synth_1/TrafficControllerMain.vds
+# Journal file: D:/WorkSpace/Sem7/HDL/traffic_light_con/traffic_light_con_lab/traffic_light_con_lab.runs/synth_1\vivado.jou
+# Running On: DESKTOP-PJH3F54, OS: Windows, CPU Frequency: 2208 MHz, CPU Physical cores: 6, Host memory: 17031 MB
+#-----------------------------------------------------------
+source TrafficControllerMain.tcl -notrace

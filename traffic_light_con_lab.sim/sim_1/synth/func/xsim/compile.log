@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/WorkSpace/Sem7/HDL/traffic_light_con/traffic_light_con_lab/traffic_light_con_lab.sim/sim_1/synth/func/xsim/TrafficControllerMain_test_func_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Divider
+INFO: [VRFC 10-311] analyzing module FSM
+INFO: [VRFC 10-311] analyzing module Synchronizer
+INFO: [VRFC 10-311] analyzing module TimeParameter
+INFO: [VRFC 10-311] analyzing module Timer
+INFO: [VRFC 10-311] analyzing module TrafficControllerMain
+INFO: [VRFC 10-311] analyzing module glbl

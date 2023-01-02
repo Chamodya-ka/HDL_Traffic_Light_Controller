@@ -1,0 +1,19 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+D:/WorkSpace/Sem7/HDL/TrafficLightController/Divider.v,1672657955,verilog,,D:/WorkSpace/Sem7/HDL/TrafficLightController/TrafficControllerMain.v,,Divider,,,,,,,,
+D:/WorkSpace/Sem7/HDL/TrafficLightController/Divider_test.v,1672468340,verilog,,D:/WorkSpace/Sem7/HDL/TrafficLightController/Synchronizer_test.v,,Divider_test,,,,,,,,
+D:/WorkSpace/Sem7/HDL/TrafficLightController/FSM.v,1672671326,verilog,,D:/WorkSpace/Sem7/HDL/TrafficLightController/TimeParameter.v,,FSM,,,,,,,,
+D:/WorkSpace/Sem7/HDL/TrafficLightController/FSM_test.v,1672678245,verilog,,D:/WorkSpace/Sem7/HDL/TrafficLightController/FSM.v,,FSM_test,,,,,,,,
+D:/WorkSpace/Sem7/HDL/TrafficLightController/Synchronizer.v,1672644639,verilog,,D:/WorkSpace/Sem7/HDL/TrafficLightController/Timer.v,,Synchronizer,,,,,,,,
+D:/WorkSpace/Sem7/HDL/TrafficLightController/Synchronizer_test.v,1672468340,verilog,,,,Synchronizer_test,,,,,,,,
+D:/WorkSpace/Sem7/HDL/TrafficLightController/TimeParameter.v,1672647578,verilog,,D:/WorkSpace/Sem7/HDL/TrafficLightController/Divider.v,,TimeParameter,,,,,,,,
+D:/WorkSpace/Sem7/HDL/TrafficLightController/TimeParameter_test.v,1672648300,verilog,,D:/WorkSpace/Sem7/HDL/TrafficLightController/Timer_test.v,,TimeParameter_test,,,,,,,,
+D:/WorkSpace/Sem7/HDL/TrafficLightController/Timer.v,1672648677,verilog,,D:/WorkSpace/Sem7/HDL/TrafficLightController/TrafficControllerMain_test.v,,Timer,,,,,,,,
+D:/WorkSpace/Sem7/HDL/TrafficLightController/Timer_test.v,1672649391,verilog,,D:/WorkSpace/Sem7/HDL/TrafficLightController/WalkRegister_test.v,,Timer_test,,,,,,,,
+D:/WorkSpace/Sem7/HDL/TrafficLightController/TrafficControllerMain.v,1672653888,verilog,,D:/WorkSpace/Sem7/HDL/TrafficLightController/TimeParameter_test.v,,TrafficControllerMain,,,,,,,,
+D:/WorkSpace/Sem7/HDL/TrafficLightController/TrafficControllerMain_test.v,1672642471,verilog,,D:/WorkSpace/Sem7/HDL/TrafficLightController/WalkRegister.v,,TrafficControllerMain_test,,,,,,,,
+D:/WorkSpace/Sem7/HDL/TrafficLightController/WalkRegister.v,1672641627,verilog,,D:/WorkSpace/Sem7/HDL/TrafficLightController/FSM_test.v,,WalkRegister,,,,,,,,
+D:/WorkSpace/Sem7/HDL/TrafficLightController/WalkRegister_test.v,1672468340,verilog,,D:/WorkSpace/Sem7/HDL/TrafficLightController/Divider_test.v,,WalkRegister_test,,,,,,,,
+D:/WorkSpace/Sem7/HDL/traffic_light_con/traffic_light_con_lab/traffic_light_con_lab.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
